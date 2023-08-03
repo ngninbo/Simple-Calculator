@@ -1,0 +1,13 @@
+Welcome to the basic calculator!
+Enter an arithmetic operation or type 'quit' to quit:
+34.5 /3
+11.50
+Enter an arithmetic operation or type 'quit' to quit:
+cat + 3
+Operation check failed!
+Enter an arithmetic operation or type 'quit' to quit:
+2 ^ 5
+32
+Enter an arithmetic operation or type 'quit' to quit:
+quit
+Goodbye!
